@@ -22,5 +22,9 @@
   "dependencies": {
     "@fwc-cli-dev/utils": "^0.0.6"
   },
-  "gitHead": "c63c14066ac6f70409b009ab60bbaf3d08e2c4c8"
+  "gitHead": "c5f36c0bb6ce6ccc8cb8345133ab232f8dc8b626",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
