@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@fwc-cli-dev/utils": "^0.0.1"
-  }
+  },
+  "gitHead": "8d57ec967d6a93039fecc54a6ffb8c8ac0e50143"
 }
