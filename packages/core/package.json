@@ -1,6 +1,6 @@
 {
   "name": "@fwc-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "fwc-cli-dev core",
   "author": "WangChao <wangchao2203@163.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@fwc-cli-dev/utils": "^0.0.3"
+    "@fwc-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "b294a44a12ca76b5c5f2a60acaab947676919fa5"
 }
