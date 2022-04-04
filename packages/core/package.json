@@ -5,6 +5,9 @@
   "author": "WangChao <wangchao2203@163.com>",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "fwc-cli-dev": "bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
@@ -19,5 +22,5 @@
   "dependencies": {
     "@fwc-cli-dev/utils": "^0.0.5"
   },
-  "gitHead": "3641e57b44b83f1902dc44f67b1b70d19d8d6e85"
+  "gitHead": "5166332749f6d0d4066cde9ecda0dd2e87a888e5"
 }
